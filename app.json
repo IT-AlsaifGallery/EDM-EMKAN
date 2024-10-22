@@ -1,0 +1,43 @@
+{
+  "id": "034f9527-77f6-484c-90f0-60744c75f872",
+  "name": "EDM - Emkan",
+  "publisher": "EDM",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "publisher": "LS Retail",
+      "version": "19.3.0.0"
+    },
+    {
+      "id": "82d8ec0f-644c-48d1-8a12-039c495781d5",
+      "name": "EDM-Customization",
+      "publisher": "EDM",
+      "version": "1.1.1.5"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50766,
+      "to": 50770
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0",
+  "target": "OnPrem"
+}
